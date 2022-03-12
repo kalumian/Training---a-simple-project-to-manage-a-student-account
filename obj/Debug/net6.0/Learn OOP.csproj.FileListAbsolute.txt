@@ -1,0 +1,15 @@
+C:\Users\SAM\Desktop\Learn OOP\bin\Debug\net6.0\Learn OOP.exe
+C:\Users\SAM\Desktop\Learn OOP\bin\Debug\net6.0\Learn OOP.deps.json
+C:\Users\SAM\Desktop\Learn OOP\bin\Debug\net6.0\Learn OOP.runtimeconfig.json
+C:\Users\SAM\Desktop\Learn OOP\bin\Debug\net6.0\Learn OOP.dll
+C:\Users\SAM\Desktop\Learn OOP\bin\Debug\net6.0\Learn OOP.pdb
+C:\Users\SAM\Desktop\Learn OOP\obj\Debug\net6.0\Learn OOP.csproj.AssemblyReference.cache
+C:\Users\SAM\Desktop\Learn OOP\obj\Debug\net6.0\Learn OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAM\Desktop\Learn OOP\obj\Debug\net6.0\Learn OOP.AssemblyInfoInputs.cache
+C:\Users\SAM\Desktop\Learn OOP\obj\Debug\net6.0\Learn OOP.AssemblyInfo.cs
+C:\Users\SAM\Desktop\Learn OOP\obj\Debug\net6.0\Learn OOP.csproj.CoreCompileInputs.cache
+C:\Users\SAM\Desktop\Learn OOP\obj\Debug\net6.0\Learn OOP.dll
+C:\Users\SAM\Desktop\Learn OOP\obj\Debug\net6.0\refint\Learn OOP.dll
+C:\Users\SAM\Desktop\Learn OOP\obj\Debug\net6.0\Learn OOP.pdb
+C:\Users\SAM\Desktop\Learn OOP\obj\Debug\net6.0\Learn OOP.genruntimeconfig.cache
+C:\Users\SAM\Desktop\Learn OOP\obj\Debug\net6.0\ref\Learn OOP.dll
